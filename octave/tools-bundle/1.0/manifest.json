@@ -1,5 +1,7 @@
 {
-  "bundles": {
-    "Octave\\ToolsBundle\\OctaveToolsBundle": ["all"]
-  }
+    "bundles": {
+        "Octave\\ToolsBundle\\OctaveToolsBundle": [
+            "all"
+        ]
+    }
 }
