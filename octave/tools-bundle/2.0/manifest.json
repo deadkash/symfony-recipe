@@ -1,0 +1,13 @@
+{
+    "bundles": {
+        "Octave\\ToolsBundle\\OctaveToolsBundle": [
+            "all"
+        ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "env": {
+        "RECAPTCHA3_SECRET_KEY": "ReplaceMe"
+    }
+}

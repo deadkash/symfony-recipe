@@ -1,0 +1,2 @@
+octave_tools:
+    recaptcha_secret: '%env(RECAPTCHA3_SECRET_KEY)%'
