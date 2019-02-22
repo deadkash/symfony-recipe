@@ -1,5 +1,6 @@
 {
-  "projects": {
-    "01D4AMKBY05WGNKKF8MHPF22T3": "OctaveToolsBundle"
-  }
+    "projects": {
+        "01D4AMKBY05WGNKKF8MHPF22T3": "OctaveToolsBundle",
+        "01D4AMERN3RVKND8P16K7KVGZ0": "Symfony4 starter"
+    }
 }
