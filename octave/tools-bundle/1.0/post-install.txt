@@ -1,0 +1,6 @@
+<bg=blue;fg=white>                     </>
+<bg=blue;fg=white> Next: Configuration </>
+<bg=blue;fg=white>                     </>
+
+  * Modify your RECAPTCHA3_SECRET_KEY config in <fg=green>.env</>
+  * Configure your parameters in <fg=green>config/packages/acme.yaml</>
