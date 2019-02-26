@@ -9,5 +9,8 @@
     },
     "env": {
         "MEDIA_UPLOAD_PATH": "/uploads/"
+    },
+    "container": {
+        "octave.sitemap.host": "%env(HOST)%"
     }
 }
