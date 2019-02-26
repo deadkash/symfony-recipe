@@ -1,0 +1,2 @@
+octave_cms:
+    media_upload_path: '%env(MEDIA_UPLOAD_PATH)%'
