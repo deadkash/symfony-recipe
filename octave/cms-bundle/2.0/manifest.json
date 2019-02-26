@@ -2,6 +2,9 @@
     "bundles": {
         "Octave\\CMSBundle\\OctaveCMSBundle": [
             "all"
+        ],
+        "Knp\\DoctrineBehaviors\\Bundle\\DoctrineBehaviorsBundle": [
+            "all"
         ]
     },
     "copy-from-recipe": {
