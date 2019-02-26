@@ -1,0 +1,6 @@
+<bg=blue;fg=white>                     </>
+<bg=blue;fg=white> Next: Configuration </>
+<bg=blue;fg=white>                     </>
+
+  * Modify your MEDIA_UPLOAD_PATH config in <fg=green>.env</>
+  * Add CMS group to sonata_admin.yaml config

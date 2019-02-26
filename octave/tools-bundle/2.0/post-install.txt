@@ -3,4 +3,4 @@
 <bg=blue;fg=white>                     </>
 
   * Modify your RECAPTCHA3_SECRET_KEY config in <fg=green>.env</>
-  * Configure your parameters in <fg=green>config/packages/acme.yaml</>
+  * Configure your parameters in <fg=green>config/packages/octave_tools.yaml</>

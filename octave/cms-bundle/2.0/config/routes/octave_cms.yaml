@@ -1,0 +1,2 @@
+octave_cms_bundle:
+    resource: '@OctaveCMSBundle/Resources/config/routing.yml'

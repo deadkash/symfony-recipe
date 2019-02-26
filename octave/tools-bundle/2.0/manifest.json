@@ -9,5 +9,8 @@
     },
     "env": {
         "RECAPTCHA3_SECRET_KEY": "ReplaceMe"
+    },
+    "composer-scripts": {
+        "octave:tools:assets-version": "symfony-cmd"
     }
 }

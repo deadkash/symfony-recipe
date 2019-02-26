@@ -1,0 +1,13 @@
+{
+    "bundles": {
+        "Octave\\CMSBundle\\OctaveCMSBundle": [
+            "all"
+        ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    },
+    "env": {
+        "MEDIA_UPLOAD_PATH": "/uploads/"
+    }
+}
